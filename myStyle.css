@@ -1,0 +1,35 @@
+/*{
+	margin: 0;
+	background: #ccc;
+	padding:0;
+}
+*/
+body{
+	margin: 10px;
+	
+    background-color: #ccc; /* Цвет фона */
+	
+}
+ #description{
+	margin:10px;
+	border:2px;
+	padding:10px;
+	width:50%;
+	height:70%;
+	
+}
+#description p{
+	text-align: center;
+	
+}
+#photo{
+	
+	
+}
+
+footer{
+	padding-right: 40px;
+	height: 80px;
+	margin-top: 500px;
+	
+}
